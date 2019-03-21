@@ -16,11 +16,12 @@ A realizzazione finale del brano verranno riconosciuti **tutti** gli utenti che 
 5. Altre sezioni oltre quelle indicate (Strofa/Segni, Ritornello, Outro) non sono contemplate
 6. Il testo verrà considerato chiuso in data 01/06/2019
 
+## Istruzioni
+Per chi non è un programmatore o non è avvezzo a utilizzare il protocollo git allego [link](https://help.github.com/en/articles/about-pull-requests) su come effettuare le pull request.
+
 ## Note
 Days Like Hills
 - [Spotify](https://open.spotify.com/artist/7FsD8uurUpUve2wKINdkyV)
 - [Youtube](https://www.youtube.com/channel/UCIy2Fy24jzHC_K0qnCzinKA)
 - [Bandcamp](https://dayslikehills.bandcamp.com/)
 
-## Link Utili
-Per chi non è un programmatore o non è avvezzo a utilizzare il protocollo git allego [link](https://help.github.com/en/articles/about-pull-requests) su come effettuare le pull request
