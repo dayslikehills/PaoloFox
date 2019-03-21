@@ -1,6 +1,9 @@
 # PaoloFox
 Questo progetto è nato come esperimento di testo collaborativo e totalmente aperto. Una volta ultimato il testo Days Like Hills lo porterà in forma-canzone.
 
+Days Like Hills è un gruppo musicale con base a Milano a cui piacciono le clementine (vedere in fondo per i link).
+Riccardo dei Days Like Hills ha lavorato e continua a lavorare come sviluppatore e un giorno ha pensato che sarebbe davvero bello applicare il meccanismo del version control per la scrittura dei testi. E qui viene la seconda parte dell'idea: rendere il progetto aperto a tutti. Con Paolo Fox ci proponiamo di coinvolgere quante più persone possibile per la stesura di un testo corale.
+
 Il testo si trova nel file testo.txt ed è in italiano
 
 Per ora il titolo della canzone è "Paolo Fox". Il testo è strutturato come un oroscopo con tanto di previsioni per ogni segno zodiacale. L'intenzione è mantenere come filo conduttore tra i vari segni il tema della vergogna e della morte, possibilmente con un taglio ironico per non correre a grandi falcate verso il suicidio.
