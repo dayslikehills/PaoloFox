@@ -3,7 +3,7 @@ Questo progetto è nato come esperimento di testo collaborativo e totalmente ape
 
 Il testo si trova nel file testo.txt ed è in italiano
 
-Per ora il titolo della canzone è "Paolo Fox". Il testo è strutturato come un oroscopo con tanto di previsioni per ogni segno zodiacale. L'intenzione è mantenere come filo conduttore tra i vari segni il tema della vergogna.
+Per ora il titolo della canzone è "Paolo Fox". Il testo è strutturato come un oroscopo con tanto di previsioni per ogni segno zodiacale. L'intenzione è mantenere come filo conduttore tra i vari segni il tema della vergogna e della morte, possibilmente con un taglio ironico per non correre a grandi falcate verso il suicidio.
 Le previsioni dei segni sono intervallate da un ritornello e terminate da un outro.
 
 A realizzazione finale del brano verranno riconosciuti **tutti** gli utenti che hanno aperto una pull request indipendentemente dall'effettiva presenza dell'apporto del singolo utente sul testo finale (i.e. anche se la vostra parte di testo non è arrivata alla versione finale).
