@@ -17,7 +17,7 @@ A realizzazione finale del brano verranno riconosciuti **tutti** gli utenti che 
 6. Il testo verrà considerato chiuso in data 01/06/2019
 
 ## Istruzioni
-Per chi non è un programmatore o non è avvezzo a utilizzare il protocollo git allego [link](https://help.github.com/en/articles/about-pull-requests) su come effettuare le pull request.
+Per chi non è un programmatore o non è avvezzo a utilizzare il protocollo git allego [link](https://help.github.com/en/articles/editing-files-in-another-users-repository) su come effettuare le modifiche.
 
 ## Note
 Days Like Hills
