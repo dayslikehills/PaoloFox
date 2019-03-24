@@ -17,7 +17,8 @@ A realizzazione finale del brano verranno riconosciuti **tutti** gli utenti che 
 3. Tutto ciò che sarà preceduto dal carattere # sarà considerato commento
 4. Ogni segno zodiacale non può eccedere le 40 parole
 5. Altre sezioni oltre quelle indicate (Strofa/Segni, Ritornello, Outro) non sono contemplate
-6. Il testo verrà considerato chiuso in data 01/06/2019
+6. Nessuna parte del testo è off-limits. I.e. qualsiasi parte può essere modificata fintanto che si rispettano le altre regole
+7. Il testo verrà considerato chiuso in data 01/06/2019
 
 ## Istruzioni
 Per chi non è un programmatore o non è avvezzo a utilizzare il protocollo git allego [link](https://help.github.com/en/articles/editing-files-in-another-users-repository) su come effettuare le modifiche.
